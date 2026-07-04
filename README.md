@@ -2,7 +2,7 @@
 
 A Java application for syntactic and semantic analysis of C++ for loop statements, developed for the Theory of Formal Languages and Grammars (ТФЯиГ) university course.
 
-## Assignment Requirements (Variant No. 11)
+## Assignment Requirements
 
 ### Task Description
 
@@ -70,6 +70,10 @@ Implement a syntactic analyzer for the C++ `for` loop statement. The language is
 
 for (int ind = 0; ind == 100; ind++)
 mass[ind] = mass[ind] % ind;
+
+## Grammar Visualization
+
+![Grammar diagram](docs/grammar.png)
 
 ## Features
 
