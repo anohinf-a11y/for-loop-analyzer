@@ -73,7 +73,7 @@ mass[ind] = mass[ind] % ind;
 
 ## Grammar Visualization
 
-![Grammar diagram](docs/grammar.png)
+![Grammar diagram](for-loop-analyzer/docs/grammar.png)
 
 ## Features
 
